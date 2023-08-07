@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kama102
+- 👋 Hi, I’m @k-02qurt
 - 👀 I’m interested in eating
 - 🌱 I’m currently learning python
 - 💞️ I’m not looking for cooperation
